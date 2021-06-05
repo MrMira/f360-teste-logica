@@ -1,6 +1,6 @@
 # Teste de Lógica da F360
 
-# Configuração da aplicação
+## Configuração da aplicação
 Para executar essa aplicação você deve ter instalado em sua máquina o PHP e o
 Composer. Caso esteja utilizando o ambiente Windows basta seguir esses passos:
 
