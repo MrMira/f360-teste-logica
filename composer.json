@@ -1,0 +1,17 @@
+{
+    "name": "mira/f360-teste-logica",
+    "authors": [
+        {
+            "name": "Miguel Mira Fonseca",
+            "email": "miguel.mrmira@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "F360\\": "source/"
+        }
+    },
+    "require": {
+        
+    }
+}
